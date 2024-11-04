@@ -30,7 +30,7 @@ function firstPageAnim() {
     });
 }
 
-function circleChaptaKaro() {
+function smallcircle() {
   // define default scale value
   var xscale = 1;
   var yscale = 1;
@@ -65,7 +65,7 @@ function circleMouseFollower(xscale, yscale) {
   });
 }
 
-circleChaptaKaro();
+smallcircle();
 circleMouseFollower();
 firstPageAnim();
 
